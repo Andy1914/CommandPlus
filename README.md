@@ -31,5 +31,3 @@ In OSX, it seems like Bash 3.x is the default shell which is not supported. you 
 - `git clone https://github.com/pindexis/marker .`
 - `./install.py`
 
-## License
-[MIT](LICENSE)
