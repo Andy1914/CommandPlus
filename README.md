@@ -1,4 +1,4 @@
-# Marker
+# CommandPlus
 
 ![marker](https://cloud.githubusercontent.com/assets/2557967/14209204/d99db934-f81a-11e5-910c-9d34ac155d18.gif)
 
